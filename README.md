@@ -6,6 +6,8 @@ Another requirement was to design the power management so that a proper startup 
 ## This HAT has no dependencies to Klipper, it can also be used for any other application without restrictions.
 
 ![This is an image](https://github.com/Snolte1001/allBus-HAT-for-Raspberry-Pi-Klipper-/blob/main/images/top%20soldered.jpg)
+![This is an image](https://github.com/Snolte1001/allBus-HAT-for-Raspberry-Pi-Klipper-/blob/main/images/bottom%20soldered.jpg)
+
 
 ## **Power Funtions:**  
 The HAT is supplied with 5V via screw terminals and can handle 3A current.  
