@@ -5,12 +5,11 @@ Another requirement was to design the power management so that a proper startup 
 
 ## This HAT has no dependencies to Klipper, it can also be used for any other application without restrictions.
 
+![This is an image](https://github.com/Snolte1001/allBus-HAT-for-Raspberry-Pi-Klipper-/blob/main/images/top%20soldered.jpg)
+
 ## **Power Funtions:**  
 The HAT is supplied with 5V via screw terminals and can handle 3A current.  
 a push button and an LED can be connected to the HAT on the port provided for this purpose.  
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
   
 The button triggers a Mosfet circuit that supplies the Pi with power, the LED lights up as soon as the Pi starts.  
 If the button is pressed again the LED starts blinking for 3 seconds, if pressed again during this time the Pi will initiate a proper shutdown and then reset the Mosfet, the Pi is now completely powerless.  
