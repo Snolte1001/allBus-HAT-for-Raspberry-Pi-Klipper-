@@ -1,6 +1,6 @@
 # allBus-HAT-for-Raspberry-Pi
 
-Power Funtions:  
+## **Power Funtions:**  
 The HAT is supplied with 5V via screw terminals and can handle 3A current.  
 a push button and an LED can be connected to the HAT on the port provided for this purpose.  
   
@@ -14,12 +14,13 @@ In addition, two GPIO are led out which can be used, for example, to control a r
 
 
 
-Bus Features:  
--CAN bus (on SPI0)  
--SPI1 (e.g. for input shaper)  
--I2C  
--UART  
+## **Bus Features:**  
+-CAN Bus on SPI0 (e.g. to connect the Pi internally with the MCU)   
+-UART (e.g. to connect the Pi internally with the MCU)  
+-SPI1 (e.g. for input shaper. Note: it still needs to be tested)  
+-I2C (e.g. for input shaper)  
 
 
--Installation-  
+
+## **Installation:**  
 coming soon
