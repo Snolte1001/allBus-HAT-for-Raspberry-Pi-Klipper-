@@ -1,0 +1,4 @@
+
+.sch file = schematic
+.brd file = board
+.zip = CAM data
